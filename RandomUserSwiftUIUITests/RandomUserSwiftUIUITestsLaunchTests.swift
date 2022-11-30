@@ -1,10 +1,3 @@
-//
-//  RandomUserSwiftUIUITestsLaunchTests.swift
-//  RandomUserSwiftUIUITests
-//
-//  Created by Artem Stetsenko on 28.11.2022.
-//
-
 import XCTest
 
 final class RandomUserSwiftUIUITestsLaunchTests: XCTestCase {
