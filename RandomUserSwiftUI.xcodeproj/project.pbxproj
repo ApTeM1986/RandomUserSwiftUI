@@ -140,7 +140,6 @@
 		1782836A2934DE1900D01E8C /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				178283712936078C00D01E8C /* User.swift */,
 				17C8268529375562000982D8 /* randomUsers.json */,
 				1782836E2934E1AF00D01E8C /* UserData.swift */,
 				1782836B2934DE2200D01E8C /* Networking */,
@@ -159,6 +158,7 @@
 		178283702936076300D01E8C /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				178283712936078C00D01E8C /* User.swift */,
 			);
 			name = ViewModel;
 			path = Model;
